@@ -98,9 +98,7 @@ function CabinRow({ cabin }) {
                 <Menus.Button icon={<HiPencil />}>Edit</Menus.Button>
               </Modal.Open>
 
-              <Modal.Open opens="delete">
-                <Menus.Button icon={<HiTrash />}>Delete</Menus.Button>
-              </Modal.Open>
+              
             </Menus.List>
 
             <Modal.Window name="edit">
