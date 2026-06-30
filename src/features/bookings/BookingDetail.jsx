@@ -1,6 +1,5 @@
 import styled from "styled-components";
 
-// import BookingDataBox from "./BookingDataBox";
 import Row from "../../ui/Row";
 import Heading from "../../ui/Heading";
 import Tag from "../../ui/Tag";
@@ -16,7 +15,6 @@ import { useNavigate } from "react-router-dom";
 import { useCheckout } from "../check-in-out/useCheckout";
 import useDeleteBooking from "./useDeleteBooking";
 import Modal from "../../ui/Modal";
-import Menus from "../../ui/Menus";
 import { HiTrash } from "react-icons/hi2";
 import ConfirmDelete from "../../ui/ConfirmDelete";
 
