@@ -1,6 +1,7 @@
 import supabase from "./supabase";
 
 export async function signup({fullName, email, password}) {
+  //this options methods is used to pass additional configuration and user metadata during registration.
   const {data, error} = await supabase.auth.signUp({email,password , options:{
     data:{
       fullName,
