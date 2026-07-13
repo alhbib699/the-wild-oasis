@@ -8,7 +8,7 @@ This project demonstrates modern React development practices, including server-s
 
 ## 🚀 Live Demo
 
-- 🌐 Live Site: https://your-vercel-link.vercel.app
+- 🌐 Live Site: https://alhbib-wild-oasis.vercel.app
 - 📂 GitHub Repository: https://github.com/alhbib699/the-wild-oasis
 
 ---
@@ -32,6 +32,7 @@ This project demonstrates modern React development practices, including server-s
 ## ✨ Features
 
 ### 🔐 Authentication & Authorization
+
 - Secure user authentication with Supabase Auth.
 - Protected application routes.
 - User login and logout.
@@ -40,6 +41,7 @@ This project demonstrates modern React development practices, including server-s
 - Row Level Security (RLS) for database protection.
 
 ### 🏡 Cabin Management
+
 - View all cabins.
 - Create new cabins.
 - Edit cabin information.
@@ -48,6 +50,7 @@ This project demonstrates modern React development practices, including server-s
 - Upload cabin images to Supabase Storage.
 
 ### 📅 Booking Management
+
 - View all bookings.
 - Filter bookings by status.
 - Sort bookings.
@@ -56,12 +59,14 @@ This project demonstrates modern React development practices, including server-s
 - Delete bookings.
 
 ### 🛎 Check-in / Check-out
+
 - Check guests in.
 - Add optional breakfast during check-in.
 - Check guests out.
 - Update booking status.
 
 ### 📊 Dashboard
+
 - Recent bookings overview.
 - Booking statistics.
 - Occupancy analysis.
@@ -70,12 +75,14 @@ This project demonstrates modern React development practices, including server-s
 - Interactive Pie Chart.
 
 ### ⚙️ Application Settings
+
 - View hotel settings.
 - Update booking settings.
 - Configure breakfast price.
 - Configure minimum and maximum booking nights.
 
 ### 🎨 User Experience
+
 - Dark Mode.
 - Responsive layout.
 - Loading indicators.
